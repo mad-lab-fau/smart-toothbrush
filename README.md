@@ -18,7 +18,7 @@ The following papers used the Smart Toothbrush in their research:
 
 
 # Contributing
-We welcome contributions to the Smart Toothbrush project! To contribute, please fork this repository and submit a pull request with your changes.
+We welcome contributions to the Smart Toothbrush project! To contribute, please fork this repository and submit a pull request with your changes. If you run into any issues or have any questions, please open an [issue on Github](https://github.com/mad-lab-fau/smart-toothbrush/issues). If you are using the Smart Toothbrush in your research or project, we would love to hear about it and link your work here!
 
 # License
 The Smart Toothbrush is licensed under the MIT License. See the LICENSE file for more information.
