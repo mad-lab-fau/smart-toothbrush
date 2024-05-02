@@ -12,7 +12,7 @@ The smart toothbrush is a custom microcontroller board that is built around an *
 [User Manual](https://github.com/mad-lab-fau/smart-toothbrush/wiki/User-Manual)<br>
 [Open Issues and Enhancement Opportunities](https://github.com/mad-lab-fau/smart-toothbrush/wiki/Open-Issues-and-Enhancement-Opportunities)<br>
 
-# Studies using the Smart Toothbrush
+# Studies Using the Smart Toothbrush
 The following papers used the Smart Toothbrush in their research:
 - *further papers to be added - let us know if you used the Smart Toothbrush in your research!*
 
