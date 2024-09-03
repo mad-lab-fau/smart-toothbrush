@@ -196,13 +196,13 @@ void loop(){
           
           while( ( myIMU.fifoGetStatus() & 0x1000 ) == 0 ) {   //empty FIFO        
  
-                temp = myIMU.calcAccel(myIMU.fifoRead());
+                temp = myIMU.calcGyro(myIMU.fifoRead());
                 file.print(temp);file.print(";");
                 
-                temp = myIMU.calcAccel(myIMU.fifoRead());
+                temp = myIMU.calcGyro(myIMU.fifoRead());
                 file.print(temp);file.print(";");
 
-                temp = myIMU.calcAccel(myIMU.fifoRead());
+                temp = myIMU.calcGyro(myIMU.fifoRead());
                 file.print(temp);file.print(";");
                 
                 temp = myIMU.calcAccel(myIMU.fifoRead());
